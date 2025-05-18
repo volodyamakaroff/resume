@@ -1,0 +1,405 @@
+  footer {
+    background: #c9defd;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%;
+    bottom: 0;
+  } 
+
+.screen {
+    background-color: #ececf6;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .screen .div {
+    background-color: #ececf6;
+    width: 1440px;
+    height: 5326px;
+    position: relative;
+  }
+  
+  .screen .BLOCK {
+    position: absolute;
+    width: 1254px;
+    height: 758px;
+    top: 50px;
+    left: 75px;
+  }
+  
+  .screen .overlap-group {
+    position: absolute;
+    width: 579px;
+    height: 304px;
+    top: 235px;
+    left: 671px;
+  }
+  
+  .screen .rectangle {
+    width: 156px;
+    height: 40px;
+    left: 175px;
+    background-color: #408bfcbf;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .element {
+    position: absolute;
+    width: 579px;
+    top: 0;
+    left: 0;
+    font-family: "Golos Text-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .text-wrapper {
+    color: #94acd1;
+  }
+  
+  .screen .span {
+    color: #ececf6;
+  }
+  
+  .screen .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 671px;
+    font-family: "Alatsi-Regular", Helvetica;
+    font-weight: 400;
+    color: #1e1e1e;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .f-ck-text {
+    position: absolute;
+    width: 530px;
+    height: 50px;
+    top: 147px;
+    left: 671px;
+  }
+  
+  .screen .text-wrapper-3 {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    font-family: "ABeeZee-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #0149ff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .screen .text-wrapper-4 {
+    position: absolute;
+    top: 6px;
+    left: 193px;
+    font-family: "ABeeZee-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #0149ff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .screen .text-wrapper-5 {
+    position: absolute;
+    top: 6px;
+    left: 383px;
+    font-family: "ABeeZee-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #0149ff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .screen .rectangle-2 {
+    width: 4px;
+    height: 50px;
+    left: 159px;
+    background-color: #408bfc;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .rectangle-3 {
+    width: 4px;
+    height: 50px;
+    left: 349px;
+    background-color: #408bfc;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .IMG {
+    position: absolute;
+    width: 561px;
+    height: 748px;
+    top: 10px;
+    left: 0;
+    object-fit: cover;
+    transition: transform 0.5s;
+  }
+  .screen .IMG:hover {
+    transform: scale(1.2);
+  }
+  
+  .screen .BLOCK-2 {
+    position: absolute;
+    width: 1400px;
+    height: 4323px;
+    top: 908px;
+    left: 25px;
+  }
+  
+  .screen .text-wrapper-6 {
+    position: absolute;
+    top: 100px;
+    left: 555px;
+    font-family: "Alatsi-Regular", Helvetica;
+    font-weight: 400;
+    color: #1e1e1e;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .line {
+    position: absolute;
+    width: 1200px;
+    height: 5px;
+    top: -5px;
+    left: 95px;
+  }
+  
+  .screen .group {
+    position: absolute;
+    width: 870px;
+    height: 604px;
+    top: 256px;
+    left: 10px;
+  }
+  
+  .screen .image {
+    width: 802px;
+    height: 499px;
+    top: 48px;
+    left: 65px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .screen .text-wrapper-7 {
+    position: absolute;
+    width: 339px;
+    top: 566px;
+    left: 81px;
+    font-family: "Golos Text-Regular", Helvetica;
+    font-weight: 400;
+    color: #94acd1;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .text-wrapper-8 {
+    top: 0;
+    left: 0;
+    position: absolute;
+    font-family: "Alexandria-Regular", Helvetica;
+    font-weight: 400;
+    color: #0149ff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .group-2 {
+    position: absolute;
+    width: 877px;
+    height: 587px;
+    top: 903px;
+    left: 515px;
+  }
+  
+  .screen .img {
+    width: 802px;
+    height: 482px;
+    top: 48px;
+    left: -1px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .screen .text-wrapper-9 {
+    position: absolute;
+    width: 349px;
+    top: 549px;
+    left: 436px;
+    font-family: "Golos Text-Regular", Helvetica;
+    font-weight: 400;
+    color: #94acd1;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .text-wrapper-10 {
+    top: 0;
+    left: 826px;
+    position: absolute;
+    font-family: "Alexandria-Regular", Helvetica;
+    font-weight: 400;
+    color: #0149ff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .group-3 {
+    position: absolute;
+    width: 878px;
+    height: 853px;
+    top: 2180px;
+    left: 515px;
+  }
+  
+  .screen .image-2 {
+    width: 802px;
+    height: 748px;
+    top: 48px;
+    left: -1px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .screen .text-wrapper-11 {
+    position: absolute;
+    width: 181px;
+    top: 815px;
+    left: 604px;
+    font-family: "Golos Text-Regular", Helvetica;
+    font-weight: 400;
+    color: #94acd1;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .group-4 {
+    position: absolute;
+    width: 879px;
+    height: 607px;
+    top: 1530px;
+    left: 1px;
+  }
+  
+  .screen .image-3 {
+    width: 803px;
+    height: 502px;
+    top: 48px;
+    left: 73px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .screen .text-wrapper-12 {
+    position: absolute;
+    width: 347px;
+    top: 569px;
+    left: 89px;
+    font-family: "Golos Text-Regular", Helvetica;
+    font-weight: 400;
+    color: #94acd1;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .image-4 {
+    width: 802px;
+    height: 542px;
+    top: 3124px;
+    left: 74px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .screen .p {
+    width: 461px;
+    top: 3685px;
+    left: 90px;
+    position: absolute;
+    font-family: "Golos Text-Regular", Helvetica;
+    font-weight: 400;
+    color: #94acd1;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .text-wrapper-13 {
+    top: 3076px;
+    left: 0;
+    position: absolute;
+    font-family: "Alexandria-Regular", Helvetica;
+    font-weight: 400;
+    color: #0149ff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .image-5 {
+    width: 801px;
+    height: 450px;
+    top: 3815px;
+    left: 515px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .screen .text-wrapper-14 {
+    width: 457px;
+    top: 4285px;
+    left: 843px;
+    position: absolute;
+    font-family: "Golos Text-Regular", Helvetica;
+    font-weight: 400;
+    color: #94acd1;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .screen .text-wrapper-15 {
+    top: 3766px;
+    left: 1339px;
+    position: absolute;
+    font-family: "Alexandria-Regular", Helvetica;
+    font-weight: 400;
+    color: #0149ff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  
+  
